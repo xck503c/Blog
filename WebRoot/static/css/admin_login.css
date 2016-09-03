@@ -1,0 +1,55 @@
+.login_wrap{
+	border:solid 1px #000;
+	background-color:#F5F5DC;
+	position:absolute;
+	top:120px;
+	left:500px;
+	width:340px;
+	height:330px;
+}
+.login_field{
+	position:absolute;
+	top:20px;
+	left:20px;
+	width:300px;
+	height:290px;
+}
+.login_title{
+	font-size:20px;
+}
+.admin_username_field{
+	position:absolute;
+	top:45px;
+	left:12px;
+}
+.admin_password_field{
+	position:absolute;
+	top:100px;
+	left:9px;
+}
+.admin_username_icon{
+	position:relative;
+	background-image:url(../images/username.png);
+	border:solid 1px #000;
+	right:10px;
+}
+.admin_password_icon{
+	position:relative;
+	background-image:url(../images/password.png);
+	border:solid 1px #000;
+	right:10px;
+}
+.admin_submit{
+	position:absolute;
+	top:180px;
+}
+.admin_submit_button{
+	height:40px;
+	width:300px;
+}
+.content{
+	width:100%;
+	margin:0px;
+	height:400px;
+	background-image:url(../images/admin_qsmy.jpg);
+}

@@ -1,0 +1,60 @@
+.container{
+	position:relative;
+	width:100%;
+}
+
+#myCarousel,.carousel-inner{
+	height:360px;
+}
+#myCarousel{
+	top:80px;
+	width:100%;
+}
+
+.brand{
+	position:absolute;
+	left:10px;
+}
+
+#blog_type{
+	position:absolute;
+	background-color:red;
+	left:80px;
+	top:530px;
+	height:200px;
+	width:360px;
+	text-align:center;
+}
+
+#data_sys{
+	position:absolute;
+	background-color:blue;
+	left:500px;
+	top:530px;
+	height:200px;
+	width:360px;
+	text-align:center;
+}
+
+#comment{
+	position:absolute;
+	background-color:green;
+	right:80px;
+	top:530px;
+	height:200px;
+	width:360px;
+	text-align:center;
+}
+
+.draw{
+	position:absolute;
+	left:300px;
+	top:800px;
+}
+
+.tail{
+	position:absolute;
+	top:1060px;
+	left:300px;
+	text-align:center;
+}

@@ -1,0 +1,23 @@
+.container{
+	height:610px;
+	width:100%;
+	background-image:url(../images/qsmy-n.jpg);
+}
+.sidebar{
+	position:absolute;
+	top:150px;
+	left:30px;
+	width:145px;
+	height:461px;
+}
+.rightContent{
+	position:absolute;
+	top:70px;
+	left:300px;
+	width:900px;
+	height:480px;
+	opacity: 0.9;
+}
+#header{
+	opacity: 0.9;
+}
